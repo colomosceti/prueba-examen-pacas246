@@ -16,7 +16,7 @@
 2. ¿Por qué se le llama programación Orientada a Objetos?
    - a) Porque se enfoca en programar objetos físicos.
    - b) Porque utiliza objetos reales en lugar de datos.
-   - c) Porque se basa en la creación y manipulación de objetos.
+   - c) Porque se basa en la creación y manipue objetos.
    - d) Porque utiliza objetos en un sentido abstracto.
 
 3. ¿Cuáles son las 3 relaciones que existen entre clases?
